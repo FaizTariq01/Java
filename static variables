@@ -22,7 +22,6 @@ class Main{
         ob3.set();
         ob3.set();
         ob3.set();
-        ob3.set();
         ob1.get();
         ob2.get();
         ob3.get();
